@@ -1,0 +1,64 @@
+body {
+    background-image: linear-gradient(to bottom, yellowgreen, gold, gray, violet, red);
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 270px;
+    cursor: pointer;
+}
+
+span {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 200px;
+}
+
+span.edu {
+    padding-left: 380px;
+    font-style: italic;
+    font-family: arial;
+    color: white;
+}
+
+acronym {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+acronym:hover {
+    color: yellowgreen;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.img:hover {
+    cursor: pointer;
+   
+
+}
+
+li {
+    font-weight: bold;
+    color: white;
+    font-style: italic;
+    font-size: large;
+}
+
+.ceo {
+    color: black;
+}
+
+.one {
+    color: red;
+}
+
+p {
+    font-size: 30px;
+}
